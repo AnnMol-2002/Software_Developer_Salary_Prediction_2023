@@ -1,0 +1,2 @@
+# Software_Developer_Salary_Prediction_2023
+The website was build using streamlit. I created this website inorder to learn streamlit .I used an already existing video tutorial to build this website. The website predict the salary of a software developer based on the country they work in and their level of education and years of experience. The website also has an explore page, which shows the statistics. The dataset used is from stack overflow. 
